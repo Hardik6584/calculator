@@ -1,6 +1,8 @@
-# calculator
+# Calculator
 
 A new Flutter project.
+This is Simple Calulator App.
+That is my first GitHub project.
 
 ## Getting Started
 
